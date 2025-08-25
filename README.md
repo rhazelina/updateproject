@@ -5,4 +5,4 @@ Update TUGAS AKHIR, 2 minggu sekali ku cek dari kurang / lebihnya
 ```
 git push --nama-projectnya 
 ```
-## alamat repositorynya rhazelina/updateproject.git
+## Alamat Repositorynya [rhazelina/updateproject.git](https://github.com/rhazelina/updateproject.git)
